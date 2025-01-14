@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "el-safa-marwa",
+          "appId": "1:266058237320:android:3329e2d6f95eb668e7263d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "el-safa-marwa",
+          "configurations": {
+            "android": "1:266058237320:android:3329e2d6f95eb668e7263d",
+            "ios": "1:266058237320:ios:92e5ffa25f4cc5d3e7263d",
+            "macos": "1:266058237320:ios:92e5ffa25f4cc5d3e7263d",
+            "web": "1:266058237320:web:c4691f44e3e74dffe7263d",
+            "windows": "1:266058237320:web:8bdf1f643dc44366e7263d"
+          }
+        }
+      }
+    }
+  }
+}
